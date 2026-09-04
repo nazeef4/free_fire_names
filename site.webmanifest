@@ -1,0 +1,12 @@
+{
+  "name": "FFNames.pro - Free Fire Name Generator",
+  "short_name": "FFNames",
+  "description": "Stylish Free Fire name generator with 860+ names and 560+ symbols.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a14",
+  "theme_color": "#070a14",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
